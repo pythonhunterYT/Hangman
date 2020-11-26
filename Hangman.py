@@ -4,7 +4,7 @@ def func(ls1, ls2, x):
     idx = ls1.index(x)
     ls2[idx] = x
     
-words = ["code", "computer", "python", "mac", "linux", "windows"]
+words = ["code", "computer", "python", "mac", "linux"]
 sel = random.choice(words)
 ls = list(sel)
 ls0 = []
