@@ -29,4 +29,3 @@ while True:
     else:
         print('Wrong!')
         count -= 1
-        pass
